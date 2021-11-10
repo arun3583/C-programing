@@ -4,7 +4,7 @@ void main()
 int arr[30],*r,i,p,l,d,s,f=0,temp,h,z;
 printf("enter the array limit");
 scanf("%d",&l);
-printf("enter the elements");
+printf("enter the elements"); 
 for(i=0;i<l;i++) 
 {
 scanf("%d",&arr[i]);
